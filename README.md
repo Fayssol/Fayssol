@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Salut 👋
+### Je suis Fayssol — Passionné  de l'informatique
 <!--
 **Fayssol/Fayssol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
