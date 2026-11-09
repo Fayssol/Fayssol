@@ -28,21 +28,6 @@ Passionné par la conception d'architectures robustes, d'APIs performantes et de
 - ⚡ Optimisation des performances
 - 📋 Méthodes Agile / Scrum
 
----
-
-## 📊 Mes statistiques GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fayssol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayssol&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fayssol&theme=tokyonight" />
-</p>
-
----
-
 ## 📬 Me contacter
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayssol-tamimou-ogbone-a22793389)
